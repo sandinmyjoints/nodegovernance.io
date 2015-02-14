@@ -12,6 +12,9 @@
   "author": "William Bert <william.bert@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "grunt": "0.4.5",
+    "grunt-aws-s3": "0.12.1",
+    "grunt-cli": "0.1.13",
     "hashmark": "2.0.1",
     "http-server": "0.7.4"
   }
