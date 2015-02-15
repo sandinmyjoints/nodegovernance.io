@@ -89,4 +89,6 @@ blockquote p {
 }
 .intent {
   font-weight: bold;
+  background: #EEF;
+  padding: 10px 3px;
 }
