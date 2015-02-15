@@ -91,4 +91,5 @@ blockquote p {
   font-weight: bold;
   background: #EEF;
   padding: 10px 3px;
+  border-radius: 5px;
 }
