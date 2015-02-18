@@ -50,6 +50,7 @@ p a {
   margin-left: -2px;
   margin-right: -2px;
   border-radius: 2px;
+  font-weight: bold;
 }
 h3 a,
 p a {
@@ -92,4 +93,7 @@ blockquote p {
   background: #DEE;
   padding: 10px 10px;
   border-radius: 5px;
+}
+.small {
+  font-size: 13px;
 }
